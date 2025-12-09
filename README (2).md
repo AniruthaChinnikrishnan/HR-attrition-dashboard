@@ -94,15 +94,7 @@ The dataset contains employee‑level information such as:
 
 * Department‑specific trends
 
-## 
-
-## 
-
-## 
-
-## 
-
-## **Tools & Technologies**
+## **Tools**
 
 * **Power BI** for data cleaning, modeling, and dashboards
 
