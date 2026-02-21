@@ -209,3 +209,20 @@ Across all dashboards:
 * Technical departments experience higher turnover.  
 * Satisfaction alone does not guarantee retention.  
 * Demographics such as age and marital status influence attrition behavior.
+
+
+## Future Enhancements
+
+The following enhancements can further improve the analytical depth and business value of this HR Analytics Dashboard:
+
+### 1. Predictive Enhancement
+A machine learning model such as Logistic Regression can be implemented to predict employee attrition probability based on factors like overtime, job satisfaction, tenure, and demographics. This would enable proactive identification of employees at risk of leaving and support data-driven retention strategies.
+
+### 2. Attrition Cost Impact Analysis
+An estimated attrition cost metric can be introduced by incorporating factors such as recruitment cost, training cost, and productivity loss. This would help organizations quantify the financial impact of employee turnover across departments and roles.
+
+### 3. Attrition Risk Score
+A risk scoring system can be developed to categorize employees into low, medium, and high attrition risk segments based on predictive model outputs. This would allow HR teams to prioritize intervention efforts effectively.
+
+### 4. What-If Analysis
+What-if parameters can be implemented to simulate the effect of potential organizational changes such as salary increases, reduced overtime, or improved job satisfaction on attrition rates. This would support strategic workforce planning and decision-making.
